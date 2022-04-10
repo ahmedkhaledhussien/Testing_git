@@ -1,2 +1,4 @@
-# Testing_git
+# Testing Git
 This project is for testing our git skills
+
+## Project Info
